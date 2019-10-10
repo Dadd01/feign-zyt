@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zytong:service-a-api:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/zytong/service-a-api/unknown/service-a-api-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/zytong/service-a-api/unknown/service-a-api-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/zytong/service-a-api/unknown/service-a-api-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
